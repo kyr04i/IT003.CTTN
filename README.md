@@ -4,3 +4,5 @@
 > Organization: UIT - VNUHCM
 
 `These are my projects and knowledge about data structures and algorithms in class`
+
+Author : Nguyen Viet Duy
