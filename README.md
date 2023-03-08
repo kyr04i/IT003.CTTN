@@ -3,7 +3,7 @@
 > 
 > Organization: UIT - VNUHCM
 
-`These are my projects and knowledge about data structures and algorithms in class`
+`These are my projects and knowledges about data structures and algorithms in class`
 
 `Language: C/C++, Python`
 
