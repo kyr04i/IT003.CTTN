@@ -5,6 +5,8 @@
 
 `These are my projects and knowledge about data structures and algorithms in class`
 
+`Language: C/C++, Python`
+
 Author : Nguyen Viet Duy
 
-Language: C/C++, Python.
+
