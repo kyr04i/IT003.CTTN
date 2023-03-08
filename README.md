@@ -1,4 +1,4 @@
-# Course: `Data Structure and Algorithms`
+# Course: `Data Structures and Algorithms`
 > Class: IT003.N21.CTTN 
 > 
 > Organization: UIT - VNUHCM
