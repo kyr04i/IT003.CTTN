@@ -20,10 +20,9 @@
 
 # Experiment:
 
-```
 To compare the performance of sorting algorithms, I use 4 algorithms namely Heap Sort, Merge Sort, Quick Sort and C library Sort to sort 10 different test sets. Each test set contains 1 million numeric data, in which test 1 of ascending numbers, test 2 of descending numbers, and the remaining tests are random numeric data.
 The algorithms are implemented in the C++ programming language and the execution time is measured using the <sys/time.h> library in C++. All tests are done by me on the same computer with 12th gen Intel Core i5 CPU configuration and 8GB RAM
-```
+
 
 # Result :
 
