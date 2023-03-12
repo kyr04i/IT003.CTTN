@@ -11,7 +11,7 @@
 
                                 **Report: Evaluating the performance of sorting algorithms on different test sets**
 
-`Sinh viên: Nguyễn Viết Duy  -  MSSV: 22520336`
+`Student: Nguyen Viet Duy  -  CODE: 22520336`
 
 `Class: IT003.N21.CTTN`
 
