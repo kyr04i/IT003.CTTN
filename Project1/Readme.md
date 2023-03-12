@@ -31,10 +31,17 @@ Các thuật toán được triển khai bằng ngôn ngữ lập trình C++ và
 **Bảng dử liệu thời gian sắp xếp của 4 thuật toán với 10 bộ TEST khác nhau**
 
 
+
+
+
  
 ![line](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/1a19dbb3d7d69b0e3a2249a8e1c9aca32facc362/Project1/image/line_graph.png)
 
 **Biểu đồ đường so sánh thời gian sắp xếp của 4 thuật toán**
+ 
+ 
+ 
+ 
  
  
  
