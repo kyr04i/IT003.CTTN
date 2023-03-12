@@ -1,4 +1,4 @@
-Heap:
+Heap Sort:
 Test 1  took 0.210782s
 Test 2  took 0.212137s
 Test 3  took 0.211598s
@@ -9,7 +9,7 @@ Test 7  took 0.219506s
 Test 8  took 0.218495s
 Test 9  took 0.226783s
 Test 10  took 0.225711s
-Merge:
+Merge Sort:
 Test 1  took 0.059422s
 Test 2  took 0.054210s
 Test 3  took 0.055070s
@@ -20,7 +20,7 @@ Test 7  took 0.059222s
 Test 8  took 0.060002s
 Test 9  took 0.060852s
 Test 10  took 0.056548s
-Heap:
+Quick Sort:
 Test 1  took 0.014698s
 Test 2  took 0.014062s
 Test 3  took 0.013090s
@@ -31,7 +31,7 @@ Test 7  took 0.012994s
 Test 8  took 0.012595s
 Test 9  took 0.013535s
 Test 10  took 0.013153s
-Sort_clib:
+C libary Sort
 Test 1  took 0.034117s
 Test 2  took 0.026286s
 Test 3  took 0.033448s
