@@ -8,11 +8,11 @@
 4. Write test report: test results in data table and chart form; comment on experimental results
 5. Report submitted in PDF file
 ```
-**Report: Đánh giá hiệu suất các thuật toán sắp xếp trên các bộ test khác nhau**
+                                   **Report: Đánh giá hiệu suất các thuật toán sắp xếp trên các bộ test khác nhau**
 
-Sinh viên: Nguyễn Viết Duy  -  MSSV: 22520336
+`Sinh viên: Nguyễn Viết Duy  -  MSSV: 22520336`
 
-Class: IT003.N21.CTTN
+`Class: IT003.N21.CTTN`
 
 
 *Sắp xếp là một trong những thuật toán cơ bản và quan trọng trong lĩnh vực khoa học máy tính. Với sự phát triển của các công nghệ lưu trữ dữ liệu hiện nay, việc sắp xếp dữ liệu đó trở thành một yêu cầu cần thiết cho nhiều ứng dụng khác nhau. Vì vậy, nghiên cứu và so sánh hiệu suất của các thuật toán sắp xếp là một chủ đề nghiên cứu quan trọng trong lĩnh vực khoa học máy tính.*
@@ -29,14 +29,20 @@ Các thuật toán được triển khai bằng ngôn ngữ lập trình C++ và
 ![data](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/1a19dbb3d7d69b0e3a2249a8e1c9aca32facc362/Project1/image/result.png)
 
 **Bảng dử liệu thời gian sắp xếp của 4 thuật toán với 10 bộ TEST khác nhau**
+
+
  
 ![line](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/1a19dbb3d7d69b0e3a2249a8e1c9aca32facc362/Project1/image/line_graph.png)
 
-Biểu đồ đường so sánh thời gian sắp xếp của 4 thuật toán
+**Biểu đồ đường so sánh thời gian sắp xếp của 4 thuật toán**
+ 
+ 
  
 ![bar](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/1a19dbb3d7d69b0e3a2249a8e1c9aca32facc362/Project1/image/bar_graph.png)
 
-Biểu đồ cột thể hiện thời gian trung bình của các thuật toán cho mỗi bộ dữ liệu
+**Biểu đồ cột thể hiện thời gian trung bình của các thuật toán cho mỗi bộ dữ liệu**
+
+
 ```
 Kết quả thực nghiệm cho thấy Quick Sort là thuật toán nhanh nhất với thời gian thực thi trung bình chỉ ở mức khoảng 0.013s. Merge Sort là thuật toán thứ hai nhanh nhất với thời gian thực thi trung bình ở mức khoảng 0.056s. Heap Sort là thuật toán thứ ba nhanh nhất với thời gian thực thi trung bình ở mức khoảng 0.214s và C library Sort là thuật toán chậm nhất với thời gian thực thi trung bình ở mức khoảng 0.033s.
 
