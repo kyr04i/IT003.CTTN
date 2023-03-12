@@ -8,7 +8,8 @@
 4. Write test report: test results in data table and chart form; comment on experimental results
 5. Report submitted in PDF file
 ```
-                                **Report: Đánh giá hiệu suất các thuật toán sắp xếp trên các bộ test khác nhau**
+
+                                **Report: Evaluating the performance of sorting algorithms on different test sets**
 
 `Sinh viên: Nguyễn Viết Duy  -  MSSV: 22520336`
 
