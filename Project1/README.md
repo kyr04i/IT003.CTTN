@@ -51,9 +51,14 @@ The algorithms are implemented in the C++ programming language and the execution
 
 
 ```
-Experimental results show that Quick Sort is the fastest algorithm with an average execution time of only about 0.013s. Merge Sort is the second fastest algorithm with an average execution time of around 0.056s. Heap Sort is the third fastest algorithm with an average execution time of about 0.214s and C library Sort is the slowest with an average execution time of about 0.033s.
+Experimental results show that Quick Sort is the fastest algorithm with an average execution
+time of only about 0.013s. Merge Sort is the second fastest algorithm with an average execution
+time of around 0.056s. Heap Sort is the third fastest algorithm with an average execution time of about 0.214s 
+and C library Sort is the slowest with an average execution time of about 0.033s.
 
-In addition, the experimental results also show that, in the random test sets, Quick Sort is the best performing algorithm, while Merge Sort is the best algorithm in the increasing test sets and Heap Sort is the best algorithm. best in descending test suites.
+In addition, the experimental results also show that, in the random test sets, Quick Sort is the best performing
+algorithm, while Merge Sort is the best algorithm in the increasing test sets and Heap Sort is the best algorithm. 
+best in descending test suites.
 ```
 
 # Analyzing:
