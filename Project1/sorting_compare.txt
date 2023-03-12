@@ -1,0 +1,44 @@
+Heap:
+Test 1  took 0.210782s
+Test 2  took 0.212137s
+Test 3  took 0.211598s
+Test 4  took 0.213326s
+Test 5  took 0.211489s
+Test 6  took 0.211466s
+Test 7  took 0.219506s
+Test 8  took 0.218495s
+Test 9  took 0.226783s
+Test 10  took 0.225711s
+Merge:
+Test 1  took 0.059422s
+Test 2  took 0.054210s
+Test 3  took 0.055070s
+Test 4  took 0.055016s
+Test 5  took 0.055649s
+Test 6  took 0.058782s
+Test 7  took 0.059222s
+Test 8  took 0.060002s
+Test 9  took 0.060852s
+Test 10  took 0.056548s
+Heap:
+Test 1  took 0.014698s
+Test 2  took 0.014062s
+Test 3  took 0.013090s
+Test 4  took 0.012668s
+Test 5  took 0.015035s
+Test 6  took 0.013190s
+Test 7  took 0.012994s
+Test 8  took 0.012595s
+Test 9  took 0.013535s
+Test 10  took 0.013153s
+Sort_clib:
+Test 1  took 0.034117s
+Test 2  took 0.026286s
+Test 3  took 0.033448s
+Test 4  took 0.033563s
+Test 5  took 0.033351s
+Test 6  took 0.034075s
+Test 7  took 0.033672s
+Test 8  took 0.032822s
+Test 9  took 0.035884s
+Test 10  took 0.035336s
