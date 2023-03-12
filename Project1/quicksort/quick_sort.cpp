@@ -28,11 +28,11 @@ void quicksort(int arr[], int l, int r) {
 
 int main(){
 
-    FILE *fd = fopen("./testcase", "r");
+    FILE *fd = fopen("testcase", "r");
     int *buffer = (int *)calloc(1000000, sizeof(int));
-    for (int i = 0; i<10; ++i)
+    for (int i = 0; i < 10; i++)
     {
-        for (int j = 0; j<1000000; ++j)
+        for (int j = 0; j < 1000000; j++)
         {
             fscanf(fd, "%d", &buffer[j]);
         }
@@ -42,6 +42,6 @@ int main(){
         quicksort(buffer, 0, 999999);
         gettimeofday(&stop, NULL);
         double s = (double)(stop.tv_usec - start.tv_usec) / 1000000 + (double)(stop.tv_sec - start.tv_sec);
-        printf(" took %fs\n", s);
+        printf("took %fs\n", s);
     }
 }
