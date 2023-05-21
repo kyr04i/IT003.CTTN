@@ -81,5 +81,7 @@ So sánh cây AVL và cây đỏ đen: cây AVL cân bằng hơn cây đỏ đen
 | 10 |   23| 34 |
 
 `Biều đồ thực nghiệm: `
+
+
 ![haha.png](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/main/Project2/AVL%26RB.png)
 
