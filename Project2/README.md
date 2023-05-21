@@ -38,7 +38,7 @@
 * Trường hợp Right Right: Điều này xảy ra khi nút được chèn vào cây con phải của cây con phải của nút gốc.
 * Trường hợp Right Left: Điều này xảy ra khi nút được chèn vào cây con trái của cây con phải của nút gốc.
 
-> Để hiện thực cây AVL, có thể sử dụng các phương pháp và thuật toán được cung cấp trong tệp  [AVL.cpp](link)
+> Để hiện thực cây AVL, có thể sử dụng các phương pháp và thuật toán được cung cấp trong tệp  [AVL.cpp](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/main/Project2/AVL.cpp)
 
 >> $ Red Black Tree
 
@@ -57,7 +57,7 @@ Chiều cao của cây đỏ đen với N nút luôn nhỏ hơn 2*log(N+1).
 
 * Các thao tác trên cây đỏ đen tương tự như cây nhị phân tìm kiếm thông thường, nhưng cần đảm bảo tuân thủ các tính chất màu sắc.
 
->> Để hiện thực cây RB, có thể sử dụng các phương pháp và thuật toán được cung cấp trong tệp  [RB.cpp](link)
+>> Để hiện thực cây RB, có thể sử dụng các phương pháp và thuật toán được cung cấp trong tệp  [RB.cpp](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/main/Project2/RB.cpp)
 
 
 >> $ Tổng kết
@@ -81,4 +81,5 @@ So sánh cây AVL và cây đỏ đen: cây AVL cân bằng hơn cây đỏ đen
 | 10 |   23| 34 |
 
 `Biều đồ thực nghiệm: `
+![haha.png](https://github.com/w1n-gl0ry/Data_Structures_and_Algotithms/blob/main/Project2/AVL%26RB.png)
 
