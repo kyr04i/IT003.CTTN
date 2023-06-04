@@ -28,7 +28,7 @@ bool cmp(krus a, krus b) {
     return a.w <= b.w;
 }
 
-void pwn() {
+void solve() {
     ifstream input("Graph.TXT");
     ofstream output("Kruskal.TXT");
 
@@ -70,6 +70,6 @@ void pwn() {
 int32_t main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL); cout.tie(NULL);
-    pwn();
+    solve();
     return 0;
 }
