@@ -4,7 +4,7 @@ This repository contains an implementation of Kruskal's algorithm in C++ for fin
 > Kruskal's Algorithm
 Kruskal's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a connected, weighted graph. The MST is a subgraph that connects all the vertices of the graph with the minimum possible total edge weight.
 
-The algorithm works as follows:
+* The algorithm works as follows:
 
 Sort all the edges of the graph in non-decreasing order of their weights.
 Create an empty graph to store the MST.
