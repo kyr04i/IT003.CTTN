@@ -65,6 +65,8 @@ void solve() {
 
     double roundedRes = round(res * 100.0) / 100.0;
     output << fixed << setprecision(2) << roundedRes;
+    input.close();
+    output.close();
 }
 
 int32_t main() {
