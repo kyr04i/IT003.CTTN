@@ -45,6 +45,6 @@ Compile and run the [kruskal.cpp](https://github.com/w1n-gl0ry/IT003.CTTN/blob/m
 The resulting minimum spanning tree weight will be written to the [Kruskal.TXT](https://github.com/w1n-gl0ry/IT003.CTTN/blob/main/Project3/Kruskal.TXT) file.
 Feel free to modify the input graph and experiment with different scenarios.
 
-If you have any questions or suggestions, feel free to reach out. Happy coding!
+If you have any questions or suggestions, feel free to reach out. Happy c0d1Ng_!
 
 > Author: w1n_gl0ry
