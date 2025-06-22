@@ -6,9 +6,7 @@
 * Run the tree creation test by adding the generated tuple numbers one by one
 * Record tree height, draw a graph comparing tree heights and logN values, 1.45logN
 * Write an experimental report
-
-> Author: w1n_gl0ry
-
+  
 # Report IT003 - Tree DataStructures:
 
 > Họ và tên: Nguyễn Viết Duy
